@@ -41,7 +41,3 @@ Here's a brief overview of how the chatbot works:
 4. A neural network model is defined and compiled.
 5. The model is trained on the training data and saved to the `chatbot_model.h5` file.
 6. When chatting with the bot, the text input from the user is vectorized and fed into the model to predict the intent. A random response from the predicted intent is then returned by the bot.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
